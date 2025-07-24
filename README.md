@@ -3,9 +3,9 @@ Telecom Customer Churn Predictive Analytics using Machine Learning techniques an
 
 # Sources: Attached files already on Github repository
 
-Dataset: "telecom_churn.csv"
-Jupyter Source File: "Coding for Project 4_Telecom Churn.ipynb"
-Completed Powerpoint slides: "Project 4 - AI & Machine Learning - Sales forecast Accuracy Model.ppt"
+# Dataset: "telecom_churn.csv"
+# Jupyter Source File: "Coding for Project 4_Telecom Churn.ipynb"
+# Completed Powerpoint slides: "Project 4 - AI & Machine Learning - Sales forecast Accuracy Model.ppt"
 
 # Final Deployed Gradio App on Hugging face platform demonstrated on jupyter notebook.
 
